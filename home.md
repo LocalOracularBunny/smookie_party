@@ -1,5 +1,7 @@
+---
 layout: page
 title: "Home"
-permalink: /home
+permalink: /
 ---
 # Smookie.party fan site
+Content is still TBD! <3

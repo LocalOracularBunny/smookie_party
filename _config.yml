@@ -1,10 +1,11 @@
-lsi: false
-safe: true
-source: /
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+title: Smookie Party Site
+email: muppet.army.captain@gmail.com
+description: >-
+  This will be a fan site for MomAtCookieBox stuff, not
+  exactly sure what I'm going to put here but we will see.
+baseurl: ""
+github_username: LocalOracularBunny
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
